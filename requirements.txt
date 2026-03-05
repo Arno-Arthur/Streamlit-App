@@ -11,4 +11,3 @@ pillow
 tensorflow
 catboost
 xgboost
-pickle
