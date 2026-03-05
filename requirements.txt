@@ -8,3 +8,7 @@ matplotlib
 seaborn
 joblib
 pillow
+tensorflow
+catboost
+xgboost
+pickle
